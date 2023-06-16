@@ -9,6 +9,7 @@ import AntTypography from "./components/typography";
 
 //navigation
 import AntAnchor from "./navigation/anchor";
+import AntBreadCrumb from "./navigation/breadCrumb";
 
 // import "./App.css";
 
@@ -22,16 +23,18 @@ function App() {
         height: "100vh",
       }}
     >
-      {/* --LAYOUTS-- */}
+      {/* ----------LAYOUTS---------- */}
 
       {/* <AntDivider /> */}
       {/* <AntGrid /> */}
       {/* <AntLayout /> */}
 
-      {/* --NAVIGATION */}
-      {/* <AntAnchor /> */}
+      {/* ----------NAVIGATION---------- */}
 
-      {/* --COMPONENTS-- */}
+      {/* <AntAnchor /> */}
+      {/* <AntBreadCrumb /> */}
+
+      {/* ----------COMPONENTS---------- */}
 
       {/* <AntButton /> */}
       {/* <AntTypography /> */}
