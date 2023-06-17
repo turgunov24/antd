@@ -10,6 +10,7 @@ import AntTypography from "./components/typography";
 //navigation
 import AntAnchor from "./navigation/anchor";
 import AntBreadCrumb from "./navigation/breadCrumb";
+import AntDropdown from "./navigation/dropdown";
 
 // import "./App.css";
 
@@ -33,6 +34,7 @@ function App() {
 
       {/* <AntAnchor /> */}
       {/* <AntBreadCrumb /> */}
+      {/* <AntDropdown /> */}
 
       {/* ----------COMPONENTS---------- */}
 
