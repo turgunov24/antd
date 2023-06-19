@@ -11,6 +11,8 @@ import AntTypography from "./components/typography";
 import AntAnchor from "./navigation/anchor";
 import AntBreadCrumb from "./navigation/breadCrumb";
 import AntDropdown from "./navigation/dropdown";
+// import AntMenu from "./navigation/menuLikeNavbar";
+import AntMenu from "./navigation/menuLikeSidebar";
 
 // import "./App.css";
 
@@ -35,6 +37,7 @@ function App() {
       {/* <AntAnchor /> */}
       {/* <AntBreadCrumb /> */}
       {/* <AntDropdown /> */}
+      {/* <AntMenu /> */}
 
       {/* ----------COMPONENTS---------- */}
 
